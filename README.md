@@ -1,6 +1,3 @@
-  <!-- NAME OF THE PROJECT -->
-   # Bucket List
-
    <!-- TABLE OF CONTENTS -->
      <details>
     <summary>Table of Contents</summary>
@@ -27,6 +24,8 @@
   </ol>
 </details>
 
+<!-- NAME OF THE PROJECT -->
+   # Bucket List
    
    <!-- ABOUT THE PROJECT -->
    ## About The Project
