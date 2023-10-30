@@ -1,4 +1,5 @@
-#Bucket list
+  <!-- NAME OF THE PROJECT -->
+  #Bucket List
 
 <!-- TABLE OF CONTENTS -->
 <details>
