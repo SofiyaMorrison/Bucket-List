@@ -14,6 +14,8 @@ This project helps people to add or remove their dreams in list with very easy w
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
 #### Available Scripts
 
 In the project directory, you can run:
@@ -80,3 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ##### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### How to use the App.
+
+- After you opened an App via [http://localhost:3000](http://localhost:3000), type in your wishes in 
