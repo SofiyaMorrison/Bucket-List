@@ -31,7 +31,7 @@ This project helps people to add or remove their dreams in list with very easy w
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* [React](https://react.dev/)
 
 # Getting Started with Create React App
 
