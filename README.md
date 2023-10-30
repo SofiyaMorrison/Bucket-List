@@ -24,7 +24,14 @@
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
+This project helps people to add or remove their dreams in list with very easy way doing that. No ink or paper needed.
+
+### Built With
+
+* [![React][React.js]][React-url]
 
 # Getting Started with Create React App
 
