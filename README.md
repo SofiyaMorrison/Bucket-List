@@ -8,6 +8,10 @@ This project helps people to create wishlist and then remove their wishes from t
 
 No ink or paper needed.
 
+### Getting Started
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ### How to use the App.
 
 1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says :
@@ -68,12 +72,6 @@ No ink or paper needed.
 ### Built With
 
 * [React](https://react.dev/)
-
-### Getting Started
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 
 #### Available Scripts
 
