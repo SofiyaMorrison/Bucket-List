@@ -10,7 +10,9 @@ No ink or paper needed.
 
 ### How to use the App.
 
-1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?",
+1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says :
+
+   "What dreams do you have?",
     ####
    **```
       <input type="text"
@@ -20,7 +22,7 @@ No ink or paper needed.
        ```**
      #### **Note: file - BucketList.js.**
 
-3. Then Add your wish in a list by pressing **ADD** button,
+4. Then Add your wish in a list by pressing **ADD** button,
    ####
    **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
