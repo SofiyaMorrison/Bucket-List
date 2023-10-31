@@ -95,7 +95,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
       ```**
       **Note: file - BucketList.js.**
 
-2. Then Add your wish in a list by pressing **Add** button,
+2. Then Add your wish in a list by pressing **ADD** button,
        **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
        ```**
@@ -122,6 +122,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
              ```**
       **Note: file - App.css.**
     
+    4. If you would like to remove a wish from your list, then click on button **DELETE** :
+       
   
   
              
