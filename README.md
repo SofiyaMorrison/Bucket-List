@@ -27,7 +27,8 @@ This project helps people to create wishlist and then remove their wishes from t
    ####     **Note: file - BucketList.js.**
 
  5. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
-           **```
+    ####
+    **```
            <ul>
                 {this.state.bucketList.map((item,index)=>(
                     <li onClick={this.crossedWord}
@@ -36,23 +37,25 @@ This project helps people to create wishlist and then remove their wishes from t
                 ))}
             </ul>
             ```**
-    **Note: file - BucketList.js.**
+    ####**Note: file - BucketList.js.**
 
-            **```
+    ####
+    **```
             .crossed{
              text-decoration: line-through 2px rgb(78, 141, 224);
              background-color: #f0f0f0;
               }
              ```**
-      **Note: file - App.css.**
+     #### **Note: file - App.css.**
     
     4. If you would like to remove a wish from your list, then click on button **DELETE** :
+       ####
         **```
         <button onClick={()=>this.deleteItem()} className="delete">
                     Delete
                 </button>
                 ```**
-       **Note: file - BucketList.js.**
+       ####**Note: file - BucketList.js.**
        
   
 
