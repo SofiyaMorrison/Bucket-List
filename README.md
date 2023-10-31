@@ -97,7 +97,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   **```
   <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
   ```**
-  ***OR*** use button ```Enter``` on a keyboard.
+  ***
+  OR
+  ***
+   use button ```Enter``` on a keyboard.
   
              
               
