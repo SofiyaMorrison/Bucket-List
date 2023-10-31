@@ -22,7 +22,7 @@ No ink or paper needed.
        ```**
      #### **Note: file - BucketList.js.**
 
-4. Then Add your wish in a list by pressing **ADD** button,
+2. Then Add your wish in a list by pressing **ADD** button,
    ####
    **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
@@ -32,7 +32,7 @@ No ink or paper needed.
    
    ####     **Note: file - BucketList.js.**
 
- 6. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
+ 3. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
     ####
     **```
            <ul>
@@ -44,7 +44,7 @@ No ink or paper needed.
             </ul>
             ```**
     #### **Note: file - BucketList.js.**
-
+    #### And
     ####
     **```
             .crossed{
