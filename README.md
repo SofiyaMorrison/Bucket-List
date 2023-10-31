@@ -128,6 +128,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
                     Delete
                 </button>
                 ```**
+       **Note: file - BucketList.js.**
        
   
   
