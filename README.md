@@ -113,6 +113,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
             </ul>
             ```**
     **Note: file - BucketList.js.**
+
+            **```
+            .crossed{
+             text-decoration: line-through 2px rgb(78, 141, 224);
+             background-color: #f0f0f0;
+              }
+             ```**
+      **Note: file - App.css.**
     
   
   
