@@ -4,7 +4,9 @@
    <!-- ABOUT THE PROJECT -->
    ## About The Project
 
-This project helps people to create wishlist and then remove their wishes from the list with very easy way doing that. No ink or paper needed.
+This project helps people to create wishlist and then remove their wishes from the list with very easy way doing that. 
+
+No ink or paper needed.
 
 ### How to use the App.
 
