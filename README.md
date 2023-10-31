@@ -65,7 +65,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                     Delete
                 </button>
                 ```**
-       ####**Note: file - BucketList.js.**
+       #### **Note: file - BucketList.js.**
        
   
 
