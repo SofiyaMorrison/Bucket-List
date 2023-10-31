@@ -10,7 +10,7 @@ No ink or paper needed.
 
 ### How to use the App.
 
-1. After you opened an App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?",
+1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?",
     ####
    **```
       <input type="text"
