@@ -54,7 +54,7 @@ No ink or paper needed.
              ```**
      #### **Note: file - App.css.**
     
-    4. If you would like to remove a wish from your list, then click on button **DELETE** :
+ 4. If you would like to remove a wish from your list, then click on button **DELETE** :
        ####
         **```
         <button onClick={()=>this.deleteItem()} className="delete">
