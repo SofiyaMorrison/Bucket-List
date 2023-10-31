@@ -85,7 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### How to use the App.
 
-- After you opened an App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?".
+1. After you opened an App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?".
       **```
      <input type="text"
       placeholder="What dreams do you have?"
@@ -93,11 +93,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
       value = {this.state.userInput}/>
       ```**
 
-  -Then Add your wish in a list by pressing **Add** button,
+2. Then Add your wish in a list by pressing **Add** button,
        **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
        ```**
         ,*OR* use button **Enter** on a keyboard.
+
+ 3. If you have done a wish from your list you can cross it out by clicking on that wish and 
+
   
              
               
