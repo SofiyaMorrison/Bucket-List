@@ -27,7 +27,9 @@ No ink or paper needed.
    **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
        ```**,
+   
       *OR* use button **Enter** on a keyboard.
+   
    ####     **Note: file - BucketList.js.**
 
  6. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
@@ -41,7 +43,7 @@ No ink or paper needed.
                 ))}
             </ul>
             ```**
-    ####**Note: file - BucketList.js.**
+    #### **Note: file - BucketList.js.**
 
     ####
     **```
