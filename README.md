@@ -93,7 +93,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
       value = {this.state.userInput}/>
       ```**
 
-  -Then Add your wish in a list by pressing **"Add"** button 
+  -Then Add your wish in a list by pressing **"Add"** button,
+  **```
+  <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
+  ```**
+  ***OR*** use button ```Enter``` on a keyboard.
+  
+             
+              
 
 
   
