@@ -87,6 +87,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - After you opened an App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says : "What dreams do you have?".
       ''' html
+      <meta name="viewport" content = "width = device-width, initial-scale = 1.0>
       <input type="text"
       placeholder="What dreams do you have?"
       onChange={(e)=>{this.onChangeEvent(e.target.value)}}
