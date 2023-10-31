@@ -19,13 +19,14 @@ This project helps people to create wishlist and then remove their wishes from t
      #### **Note: file - BucketList.js.**
 
 3. Then Add your wish in a list by pressing **ADD** button,
-       **```
+   ####
+   **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
        ```**
         ,*OR* use button **Enter** on a keyboard.
-        **Note: file - BucketList.js.**
+   ####     **Note: file - BucketList.js.**
 
- 4. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
+ 5. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
            **```
            <ul>
                 {this.state.bucketList.map((item,index)=>(
