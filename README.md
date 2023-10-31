@@ -92,4 +92,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
       onChange={(e)=>{this.onChangeEvent(e.target.value)}}
       value = {this.state.userInput}/>
       ```**
+
+  -Then Add your wish in a list by pressing **"Add"** button 
+
+
   
