@@ -58,7 +58,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
              ```**
      #### **Note: file - App.css.**
     
- 4. If you would like to remove a wish from your list, then click on button **DELETE** :
+ 4. If you would like to remove all wishes from your list, then click on button **DELETE** :
        ####
      **```
         <button onClick={()=>this.deleteItem()} className="delete">
