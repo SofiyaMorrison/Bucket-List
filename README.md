@@ -56,7 +56,7 @@ No ink or paper needed.
     
  4. If you would like to remove a wish from your list, then click on button **DELETE** :
        ####
-        **```
+     **```
         <button onClick={()=>this.deleteItem()} className="delete">
                     Delete
                 </button>
