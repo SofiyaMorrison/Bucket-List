@@ -44,7 +44,7 @@ No ink or paper needed.
             </ul>
             ```**
     #### **Note: file - BucketList.js.**
-    #### And
+    And
     ####
     **```
             .crossed{
