@@ -17,16 +17,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window that says :
 
    "What dreams do you have?",
-    ####
+   ####
    **```
       <input type="text"
       placeholder="What dreams do you have?"
       onChange={(e)=>{this.onChangeEvent(e.target.value)}}
       value = {this.state.userInput}/>
        ```**
-     #### **Note: file - BucketList.js.**
+     ##### **Note: file - BucketList.js.**
 
-2. Then Add your wish in a list by pressing **ADD** button,
+3. Then Add your wish in a list by pressing **ADD** button,
    ####
    **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
@@ -34,9 +34,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    
       *OR* use button **Enter** on a keyboard.
    
-   ####     **Note: file - BucketList.js.**
+   #####     **Note: file - BucketList.js.**
 
- 3. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
+ 4. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
     ####
     **```
            <ul>
@@ -47,7 +47,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                 ))}
             </ul>
             ```**
-    #### **Note: file - BucketList.js.**
+    ##### **Note: file - BucketList.js.**
     And
     ####
     **```
@@ -56,20 +56,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
              background-color: #f0f0f0;
               }
              ```**
-     #### **Note: file - App.css.**
+     ##### **Note: file - App.css.**
     
- 4. If you would like to remove all wishes from your list, then click on button **DELETE** :
+ 5. If you would like to remove all wishes from your list, then click on button **DELETE** :
        ####
      **```
         <button onClick={()=>this.deleteItem()} className="delete">
                     Delete
                 </button>
                 ```**
-       #### **Note: file - BucketList.js.**
+       ##### **Note: file - BucketList.js.**
        
   
 
 ### Built With
 
-* [React](https://react.dev/)
+ #### * [React](https://react.dev/)
 
