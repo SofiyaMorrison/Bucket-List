@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How to use the App.
 
-1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window where it says :
+1. After you opened an Bucket List App via [http://localhost:3000](http://localhost:3000), type in your wishes in open input window that says :
 
    "What dreams do you have?",
     ####
