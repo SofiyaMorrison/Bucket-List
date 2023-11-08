@@ -45,6 +45,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  **```
        Add
      ```**
+     
  **```
        </button>
        ```** 
@@ -66,16 +67,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  **```
                     <li onClick={this.crossedWord}
      ```**
+     
    **```
                      key = {index}> 💎{item}
     ```**
-    **```
+    
+ **```
                      </li>
     ```**
-    **```
+    
+ **```
                 ))}
     ```**
-    **```
+    
+ **```
             </ul>
             ```**
             
@@ -91,7 +96,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    **```
              text-decoration: line-through 2px rgb(78, 141, 224);
               ```**
-               **```
+              
+ **```
              background-color: #f0f0f0;
               }
              ```**
@@ -103,10 +109,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  **```
         <button onClick={()=>this.deleteItem()} className="delete">
        ```**
+       
    **```
                     Delete
                     ```**
-                    **```
+                    
+ **```
                 </button>
                 ```**
                 
