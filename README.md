@@ -33,7 +33,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  **```
       value = {this.state.userInput}/>
        ```**
-     ##### **Note: file - BucketList.js.**
+       
+ ##### **Note: file - BucketList.js.**
 
 3. Then Add your wish in a list by pressing **ADD** button,
    ####
@@ -46,9 +47,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
      ```**
  **```
        </button>
-       ```** ,
+       ```** 
    
-      *OR* use button **Enter** on a keyboard.
+     , *OR* use button **Enter** on a keyboard.
    
    #####     **Note: file - BucketList.js.**
 
