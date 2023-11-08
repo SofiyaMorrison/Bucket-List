@@ -50,7 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
        </button>
        ```** 
    
-     , *OR* use button **Enter** on a keyboard.
+   , *OR* use button **Enter** on a keyboard.
    
    #####     **Note: file - BucketList.js.**
 
@@ -60,29 +60,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
            <ul>
            ```**
 
- **```
+     **```
                 {this.state.bucketList.map((item,index)=>(
-    ```**
+          ```**
     
- **```
+     **```
                     <li onClick={this.crossedWord}
-     ```**
+         ```**
      
-   **```
+      **```
                      key = {index}> 💎{item}
-    ```**
+        ```**
     
- **```
-                     </li>
-    ```**
+      **```
+                      </li>
+        ```**
     
- **```
+       **```
                 ))}
-    ```**
+          ```**
     
- **```
+       **```
             </ul>
-            ```**
+                ```**
             
    ##### **Note: file - BucketList.js.**
    
