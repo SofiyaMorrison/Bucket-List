@@ -78,10 +78,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     **```
             </ul>
             ```**
-    ##### **Note: file - BucketList.js.**
+            
+   ##### **Note: file - BucketList.js.**
+   
     And
-    ####
-    **```
+    
+ ####
+ **```
             .crossed{
             ```**
 
@@ -92,7 +95,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
              background-color: #f0f0f0;
               }
              ```**
-     ##### **Note: file - App.css.**
+             
+   ##### **Note: file - App.css.**
     
  7. If you would like to remove all wishes from your list, then click on button **DELETE** :
        ####
@@ -105,7 +109,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                     **```
                 </button>
                 ```**
-       ##### **Note: file - BucketList.js.**
+                
+ ##### **Note: file - BucketList.js.**
        
   
 
