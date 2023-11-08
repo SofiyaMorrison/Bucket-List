@@ -18,33 +18,63 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
    "What dreams do you have?",
    ####
-   **```
+ **```
       <input type="text"
+      ```**
+   
+   **```
       placeholder="What dreams do you have?"
+      ```**
+
+ **```
       onChange={(e)=>{this.onChangeEvent(e.target.value)}}
+      ```**
+
+ **```
       value = {this.state.userInput}/>
        ```**
      ##### **Note: file - BucketList.js.**
 
 3. Then Add your wish in a list by pressing **ADD** button,
    ####
-   **```
-       <button onClick={()=>this.addItem(this.state.userInput)} className="add">Add </button>
-       ```**,
+ **```
+       <button onClick={()=>this.addItem(this.state.userInput)} className="add">
+      ```**
+
+ **```
+       Add
+     ```**
+ **```
+       </button>
+       ```** ,
    
       *OR* use button **Enter** on a keyboard.
    
    #####     **Note: file - BucketList.js.**
 
- 4. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
+ 5. If you have done a wish from your list you can cross it out by clicking on that wish and crossed light blue line will pop up on your wish :
     ####
     **```
            <ul>
+           ```**
+
+ **```
                 {this.state.bucketList.map((item,index)=>(
+    ```**
+    
+ **```
                     <li onClick={this.crossedWord}
+     ```**
+   **```
                      key = {index}> 💎{item}
+    ```**
+    **```
                      </li>
+    ```**
+    **```
                 ))}
+    ```**
+    **```
             </ul>
             ```**
     ##### **Note: file - BucketList.js.**
@@ -52,17 +82,26 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     ####
     **```
             .crossed{
+            ```**
+
+   **```
              text-decoration: line-through 2px rgb(78, 141, 224);
+              ```**
+               **```
              background-color: #f0f0f0;
               }
              ```**
      ##### **Note: file - App.css.**
     
- 5. If you would like to remove all wishes from your list, then click on button **DELETE** :
+ 7. If you would like to remove all wishes from your list, then click on button **DELETE** :
        ####
-     **```
+ **```
         <button onClick={()=>this.deleteItem()} className="delete">
+       ```**
+   **```
                     Delete
+                    ```**
+                    **```
                 </button>
                 ```**
        ##### **Note: file - BucketList.js.**
