@@ -124,5 +124,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Built With
 
- #### * [React](https://react.dev/)
+ #### 
+ * [React](https://react.dev/)
+ * CSS
+ * HTML
+ 
 
